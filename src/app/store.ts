@@ -101,8 +101,8 @@ const defaultData: SiteData = {
     badgeSub: "Client Retention Rate",
   },
   contact: {
-    phone: "+91 7982023117",
-    email: "ajit.sharma@sgspl.cloud",
+    phone: "+91-7982023117",
+    email: "sales@sgspl.cloud",
     address: "India",
     officeHours: "Mon–Sat, 9am–7pm IST",
   },
