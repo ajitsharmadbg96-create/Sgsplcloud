@@ -12,14 +12,14 @@ const features = [
 const plans = [
   {
     name: "Starter",
-    price: "₹499",
+    price: "₹1199",
     per: "user / mo",
     highlight: false,
-    features: ["Up to 25 users", "50 GB mailbox", "Spam & virus filtering", "Webmail access", "Email support"],
+    features: ["Up to 25 users", "30 GB mailbox", "Spam & virus filtering", "Webmail access", "Email support"],
   },
   {
     name: "Business",
-    price: "₹899",
+    price: "₹2099",
     per: "user / mo",
     highlight: true,
     features: ["Up to 200 users", "100 GB mailbox", "Hybrid sync (cloud + on-prem)", "Advanced threat protection", "Mobile sync (ActiveSync)", "Priority support"],
