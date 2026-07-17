@@ -115,7 +115,7 @@ export function ProductLogos() {
     <section className="bg-white border-y border-[#dce4ef] py-10">
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
         <p className="text-center text-xs text-[#4a6080] tracking-widest uppercase font-['Inter'] font-semibold mb-8">
-          Products &amp; Technology Partners
+          Products &amp; Technology Supported
         </p>
 
         {/* Carousel */}
